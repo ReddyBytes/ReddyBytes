@@ -222,7 +222,96 @@ Schema Design → Optimization → Real World
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,terraform,postgres,linux,bash,fastapi,grafana,prometheus,git&theme=dark&perline=7"/>
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Python-DSA-API-Mastery#readme">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/><br/>
+    <sub>Python</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/AI-ENGINEERS-ATLAS/tree/main/04_Neural_Networks_and_Deep_Learning">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45" alt="PyTorch"/><br/>
+    <sub>PyTorch</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/AI-ENGINEERS-ATLAS/tree/main/14_Hugging_Face_Ecosystem">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" height="45" alt="HuggingFace"/><br/>
+    <sub>HuggingFace</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Container-Engineering#readme">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" alt="Docker"/><br/>
+    <sub>Docker</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Container-Engineering#readme">
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="45" alt="Kubernetes"/><br/>
+    <sub>Kubernetes</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Linux-Terraform-AWS-Mastery/tree/main/03_AWS">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" alt="AWS"/><br/>
+    <sub>AWS</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Linux-Terraform-AWS-Mastery/tree/main/04_Terraform">
+    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="45" alt="Terraform"/><br/>
+    <sub>Terraform</sub>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/SQL-Mastery#readme">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" alt="PostgreSQL"/><br/>
+    <sub>PostgreSQL</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Linux-Terraform-AWS-Mastery/tree/main/01_Linux">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/><br/>
+    <sub>Linux</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Linux-Terraform-AWS-Mastery/tree/main/02_Bash-Scripting">
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash"/><br/>
+    <sub>Bash</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Python-DSA-API-Mastery#readme">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45" alt="FastAPI"/><br/>
+    <sub>FastAPI</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/observability-zero-to-hero#readme">
+    <img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="45" alt="Grafana"/><br/>
+    <sub>Grafana</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/observability-zero-to-hero#readme">
+    <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="45" alt="Prometheus"/><br/>
+    <sub>Prometheus</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ReddyBytes/Airflow#readme">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="Airflow"/><br/>
+    <sub>Airflow</sub>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -260,3 +349,39 @@ Schema Design → Optimization → Real World
 
 ---
 
+<!--
+=================================================================
+  ONE-TIME SETUP — Contribution Snake Animation
+=================================================================
+Create this file in the ReddyBytes profile repo:
+  .github/workflows/snake.yml
+
+---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+Once run, the snake live-updates every day at midnight automatically.
+=================================================================
+-->
