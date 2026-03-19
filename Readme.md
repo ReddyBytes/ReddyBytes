@@ -9,12 +9,12 @@
 <!-- ============================================================ -->
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ritik307&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ReddyBytes&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
 </div>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F724B5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Ritik+Rawal!;Building+AI%2FML+Learning+Systems+%F0%9F%A4%96;DevOps+%26+Cloud+Engineering+%F0%9F%90%B3;Python+%C2%B7+SQL+%C2%B7+DSA+Enthusiast+%F0%9F%A7%A9;Story-first+%C2%B7+Visual+%C2%B7+Production-grade+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F724B5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Penchala+Reddy!;Building+AI%2FML+Learning+Systems+%F0%9F%A4%96;DevOps+%26+Cloud+Engineering+%F0%9F%90%B3;Python+%C2%B7+SQL+%C2%B7+DSA+Enthusiast+%F0%9F%A7%A9;Story-first+%C2%B7+Visual+%C2%B7+Production-grade+%F0%9F%93%9A" alt="Typing SVG"/>
 
 </div>
 
@@ -37,8 +37,8 @@
 - 💬 &nbsp; Ask me about **Python**, **SQL**, **Docker**, **AWS**, **DevOps**
 - 🧑‍🏫 &nbsp; Love **mentoring newcomers** — every resource I build is written the way I wish I'd learned it
 - 📍 &nbsp; Based in **Hyderabad, India**
-- 🌐 &nbsp; Portfolio: **[ritik307.github.io/portfolio](https://ritik307.github.io/portfolio/)**
-- 📧 &nbsp; Reach me: **[ritikpr307@gmail.com](mailto:ritikpr307@gmail.com)**
+- 🌐 &nbsp; Portfolio: **[PenchalaReddy.github.io/portfolio](https://reddybytes.github.io/portfolio/)**
+- 📧 &nbsp; Reach me: **[penchalareddy260@gmail.com](mailto:penchalareddy260@gmail.com)**
 - ⚡ &nbsp; Fun fact: I write story-first explanations so even a 2 AM brain can understand them!
 
 <br clear="right"/>
@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 [AI-ENGINEERS-ATLAS](https://github.com/ritik307/AI-ENGINEERS-ATLAS)**
+**🤖 [AI-ENGINEERS-ATLAS](https://github.com/ReddyBytes/AI-ENGINEERS-ATLAS)**
 
 The complete AI engineering curriculum — one repo to cover everything.
 
@@ -101,7 +101,7 @@ LLMs → RAG → Agents → MCP → Production AI
 </td>
 <td width="50%" valign="top">
 
-**🐍 [Python-DSA-API-Mastery](https://github.com/ritik307/Python-DSA-API-Mastery)**
+**🐍 [Python-DSA-API-Mastery](https://github.com/ReddyBytes/Python-DSA-API-Mastery)**
 
 Four complete tracks under one roof — from Python basics to FAANG-level interviews.
 
@@ -122,7 +122,7 @@ Python → DSA → FastAPI → System Design
 <tr>
 <td width="50%" valign="top">
 
-**🐳 [Container-Engineering](https://github.com/ritik307/Container-Engineering)**
+**🐳 [Container-Engineering](https://github.com/ReddyBytes/Container-Engineering)**
 
 Docker + Kubernetes from first container to production-grade cluster management.
 
@@ -138,7 +138,7 @@ Docker → Kubernetes → Helm → GitOps
 </td>
 <td width="50%" valign="top">
 
-**✈️ [Airflow](https://github.com/ritik307/Airflow)**
+**✈️ [Airflow](https://github.com/ReddyBytes/Airflow)**
 
 Apache Airflow 3 from your first DAG to cloud-scale orchestration and integrations.
 
@@ -159,7 +159,7 @@ DAGs → Scheduling → Cloud → Integrations
 <tr>
 <td width="50%" valign="top">
 
-**☁️ [Linux-Terraform-AWS-Mastery](https://github.com/ritik307/Linux-Terraform-AWS-Mastery)**
+**☁️ [Linux-Terraform-AWS-Mastery](https://github.com/ReddyBytes/Linux-Terraform-AWS-Mastery)**
 
 The full DevOps stack — in the right order, with real-world examples throughout.
 
@@ -175,7 +175,7 @@ Linux → Bash → AWS → Terraform
 </td>
 <td width="50%" valign="top">
 
-**🔷 [SQL-Mastery](https://github.com/ritik307/SQL-Mastery)**
+**🔷 [SQL-Mastery](https://github.com/ReddyBytes/SQL-Mastery)**
 
 SQL from first `SELECT` to production patterns. PostgreSQL-first, interview-ready.
 
@@ -196,7 +196,7 @@ Schema Design → Optimization → Real World
 <tr>
 <td width="50%" valign="top">
 
-**📡 [observability-zero-to-hero](https://github.com/ritik307/observability-zero-to-hero)**
+**📡 [observability-zero-to-hero](https://github.com/ReddyBytes/observability-zero-to-hero)**
 
 7-day hands-on series — full observability stack on Kubernetes from scratch.
 
@@ -212,7 +212,7 @@ Jaeger · OpenTelemetry · eBPF
 </td>
 <td width="50%" valign="top">
 
-**🐧 [linux-guide](https://github.com/ritik307/linux-guide)**
+**🐧 [linux-guide](https://github.com/ReddyBytes/linux-guide)**
 
 Linux fundamentals reference — everything from filesystem to disk management.
 
@@ -244,7 +244,7 @@ Networking · Monitoring · Storage
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik307&theme=react-dark&hide_border=true&area=true&area_color=6366f1&color=a78bfa&line=6366f1&point=60a5fa" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReddyBytes&theme=react-dark&hide_border=true&area=true&area_color=6366f1&color=a78bfa&line=6366f1&point=60a5fa" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -273,11 +273,11 @@ Networking · Monitoring · Storage
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ritik307.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik307)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritikhere307)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritik307)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikpr307@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ReddyBytes.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/penchalareddy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/penchalareddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReddyBytes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:penchalareddy260@gmail.com)
 
 </div>
 
@@ -297,39 +297,3 @@ Networking · Monitoring · Storage
 
 ---
 
-<!--
-=================================================================
-  ONE-TIME SETUP — Contribution Snake Animation
-=================================================================
-Create this file in the ritik307 profile repo:
-  .github/workflows/snake.yml
-
----
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
-
-Once run, the snake live-updates every day at midnight automatically.
-=================================================================
--->
