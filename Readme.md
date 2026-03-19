@@ -190,43 +190,6 @@ Schema Design → Optimization → Real World
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**📡 [observability-zero-to-hero](https://github.com/ReddyBytes/observability-zero-to-hero)**
-
-7-day hands-on series — full observability stack on Kubernetes from scratch.
-
-```
-Prometheus · Grafana · ELK Stack
-Jaeger · OpenTelemetry · eBPF
-```
-
-![](https://img.shields.io/badge/7%20Days-e05d44?style=flat-square)
-![](https://img.shields.io/badge/Kubernetes-e05d44?style=flat-square)
-![](https://img.shields.io/badge/Hands--on-e05d44?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**🐧 [linux-guide](https://github.com/ReddyBytes/linux-guide)**
-
-Linux fundamentals reference — everything from filesystem to disk management.
-
-```
-Users · Permissions · Processes
-Networking · Monitoring · Storage
-```
-
-![](https://img.shields.io/badge/10%20Sections-94a3b8?style=flat-square)
-![](https://img.shields.io/badge/Fundamentals-94a3b8?style=flat-square)
-![](https://img.shields.io/badge/Reference-94a3b8?style=flat-square)
-
-</td>
-</tr>
 </table>
 
 >
